@@ -1,0 +1,97 @@
+{
+  "cards": [
+    {
+      "key": "light_up_your_home",
+      "type": "normal",
+      "detail": "assets/videos/light_up_your_home.mov",
+      "title": "Ilumina tu hogar",
+      "quote": "Con las luces encendidas durante la noche me siento más seguro, tanto dentro como fuera de casa. Puedo charlar con mis vecinos mientras mi hija estudia y mi hijo carga su teléfono con nosotros.",
+      "description": "La electricidad hace la vida más segura, flexible y cómoda a toda la familia."
+    },
+    {
+      "key": "powering_better_business",
+      "type": "normal",
+      "detail": "assets/videos/powering_better_business.mov",
+      "title": "Mayor sostenibilidad para los negocios",
+      "quote": "Mi frigorífico nuevo mantiene los productos frescos, lo cual ayuda a reducir los desperdicios. Además, ahora los clientes vuelven a mi tienda para disfrutar de bebidas frías y vienen con sus amigos para ver juntos los deportes en televisión.",
+      "description": "La electricidad ofrece nuevas oportunidades para los negocios y el ocio."
+    },
+    {
+      "key": "power_boost_health",
+      "type": "normal",
+      "detail": "assets/videos/power_boost_health.mov",
+      "title": "Un impulso de energía para la salud",
+      "quote": "Una nevera para medicamentos y vacunas, y un ordenador para poder almacenar la información de los pacientes me ayudan a ser mejor médico. Incluso he comenzado a organizar charlas en el dispensario comunitario sobre cuestiones sobre salud.",
+      "description": "La electricidad ayuda a mejorar la atención médica incluso en pequeños pueblos y comunidades aisladas."
+    },
+    {
+      "key": "energy_against_gender_gaps",
+      "type": "normal",
+      "detail": "assets/videos/energy_against_gender_gaps.mov",
+      "title": "Energía contra las diferencias de género",
+      "quote": "Mi madre jamás creería lo rápido que puedo coser y lo profesionales que quedan las cortinas que elaboro. Una máquina de coser eléctrica me ha ayudado a pasar de empleada a empresaria.",
+      "description": "La electricidad abre nuevas oportunidades y fomenta la igualdad de las mujeres en los países en vías de desarrollo."
+    },
+    {
+      "key": "energy_to_grow",
+      "type": "normal",
+      "detail": "assets/videos/energy_to_grow.mov",
+      "title": "Energía para crecer",
+      "quote": "He visto aumentar mis cosechas gracias a una bomba eléctrica y he reducido los residuos alimentarios gracias a mi nuevo refrigerador. Ambos funcionan con energía limpia, así que no tengo que comprar ni manipular combustible diésel de altos precios. ¡Ahora mis cosechas son totalmente ecológicas!",
+      "description": "La electricidad mejora y fomenta las tecnologías para usar los cultivos de una forma más productiva y sostenible."
+    },
+    {
+      "key": "more_energy_into_food",
+      "type": "normal",
+      "detail": "assets/videos/more_energy_into_food.mov",
+      "title": "Más energía para producir alimentos",
+      "quote": "Nuestro molino eléctrico procesa nuestros cultivos con rapidez, correctamente y sin el ruido y el humo de los modelos diésel. Tenemos excedentes para vender y estamos pensando en iniciar pronto nuestra expansión.",
+      "description": "La electricidad proporciona medios más productivos para procesar alimentos a las comunidades que dependen en gran medida de la agricultura."
+    },
+    {
+      "key": "connecting_with_energy",
+      "type": "normal",
+      "detail": "assets/videos/connecting_with_energy.mov",
+      "title": "Conectándonos con la energía",
+      "quote": "Me he enterado de un nuevo programa de formación a través de la página web de la escuela, imprimí los formularios que tenía que rellenar y los envié por correo electrónico. Todo en el mismo día y desde la cafetería del pueblo.",
+      "description": "La electricidad pone las TI al servicio de la información, la educación y la comunicación, entre otras."
+    },
+    {
+      "key": "new_generation",
+      "type": "microgrid",
+      "detail": "assets/videos/new_generation.mov",
+      "title": "Una nueva generación",
+      "quote": "Un campo solar de unos 9 metros cuadrados proporciona a nuestra aldea un suministro de electricidad las 24 horas, los 7 días de la semana, con unas emisiones, ruidos y costes mínimos. Un acumulador almacena la energía solar para que podamos usarla durante la noche.",
+      "description": "La energía limpia da a las comunidades rurales el impulso energético que necesitan para poder crecer de forma sostenible."
+    },
+    {
+      "key": "making_energy_smart",
+      "type": "microgrid",
+      "detail": "assets/videos/making_energy_smart.mov",
+      "title": "Energía inteligente",
+      "quote": "El contador inteligente conecta mi peluquería al sistema para que pueda recargar fácilmente mi cuenta a través del teléfono móvil y pueda volver a centrarme en el negocio.",
+      "description": "Los sistemas energéticos inteligentes hacen que la gestión de la electricidad sea fácil y práctica para todos."
+    },
+    {
+      "key": "world_kenya",
+      "type": "world",
+      "detail": "assets/img/world_kenya.png",
+      "title": "Kenya",
+      "quote": "Las minirredes son una solución eficiente para proporcionar acceso a la electricidad a las comunidades que no están conectadas al sistema eléctrico nacional en aquellos países que cuentan con una baja tasa de electrificación."
+    },
+    {
+      "key": "world_india",
+      "type": "world",
+      "detail": "assets/img/world_india.png",
+      "title": "India",
+      "quote": "Las minirredes son una solución eficiente para suministrar electricidad de forma fiable a las comunidades conectadas al sistema eléctrico nacional, que sufre apagones u otros problemas con frecuencia."    
+    },
+    {
+      "key": "world_colombia",
+      "type": "world",
+      "detail": "assets/img/world_colombia.png",
+      "title": "Colombia",
+      "quote": "Las minirredes son una solución eficaz para complementar la infraestructura energética en países que ya disponen de una alta tasa de electrificación, pero que cuentan con zonas remotas a las que el sistema eléctrico nacional todavía no llega."    
+    }
+  ]
+}
